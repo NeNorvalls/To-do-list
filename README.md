@@ -1,5 +1,6 @@
 # To-Do List Project
 
+![Todo List](/images/TodoListCover.jpg)
 [Visit My Project on Netlify](https://nenorvalls-to-do-list.netlify.app/)
 
 ## Project Overview
