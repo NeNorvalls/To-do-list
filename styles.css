@@ -96,13 +96,14 @@ footer {
   width: 100%;
 }
 
-.go-back-button {
-  background-color: #007bff;
-  color: #fff;
-  padding: 8px 16px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  margin-bottom: 3rem;
-  margin-left: 1rem;
-}
+#go-back-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 3rem;
+    margin-left: 1rem;
+  }
+  
